@@ -1,1 +1,1 @@
-# delta live tables
+# platform-support team
